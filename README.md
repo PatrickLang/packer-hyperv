@@ -1,7 +1,14 @@
+# Hyper-V Support is now built into Packer!
+
+This repo was forked, updated, tested by the Packer community and merged into [Packer 0.12.1 in December 2016](https://github.com/hashicorp/packer/blob/v0.12.1/CHANGELOG.md). Now, a separate plugin is no longer needed. To get started, go to the [Packer Documentation](https://www.packer.io/docs/index.html), and look under Builders > Hyper-V > ISO.
+
+**This repo is no longer maintained.**
+
 packer-hyperv
 =============
 
 Packer is an open source tool for creating identical machine images for multiple platforms from a single source configuration. For an introduction to Packer, check out documentation at http://www.packer.io/intro/index.html.
+
 
 This is a Hyperv plugin for Packer.io to enable windows users to build custom images given an ISO. 
 
